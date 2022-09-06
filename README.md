@@ -2,3 +2,4 @@
 Profesor: Jorge Melnik  
 ## Estudiantes  
 Estudiante: Milagros Kucharski
+Estudiante: Nicolas Gomez
